@@ -46,6 +46,10 @@ Planificador (S7), con presupuesto S/ 120.00:
 5. Conservar la ficha tras un error y Limpiar.
 Kardex (S9): entrada 10 y salida 3 = 7; salida 8 rechazada (queda 7); 0, −1 y 1.5 rechazados; búsqueda vacía y sin coincidencia no cambian datos; edición por id; cancelar eliminación; inactivar conserva historial; recarga conserva datos; CSV con movimientos y cantidades correctos. Resultados completos en el PDF de entrega.
 
+## Aporte y ayuda recibida
+- Mi aporte: S7 (TODO 1–3, personalización y presupuesto) y, en S9, la integración del kardex, personalización y pruebas.
+- Ayuda recibida: asistente de IA (Claude, de Anthropic, 29/10/2026) para integrar los fragmentos, corregir detalles del kardex.js y preparar pruebas e informe. Plantilla, fragmentos y guías: docente del curso ET505.
+
 ## Repositorio individual y GitHub Pages
-Repositorio: [pegar aquí el enlace del repositorio]
-Sitio GitHub Pages: [pegar aquí el enlace que GitHub muestre]
+Repositorio: https://github.com/maryorillontophuancas-maker/materials-kardex-adri
+Sitio GitHub Pages: https://maryorillontophuancas-maker.github.io/materials-kardex-adri/
